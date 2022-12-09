@@ -1,0 +1,9 @@
+C:\Users\fanto\RiderProjects\lab3v7\BusinessLogicTests\bin\Debug\BusinessLogicTests.dll
+C:\Users\fanto\RiderProjects\lab3v7\BusinessLogicTests\bin\Debug\BusinessLogicTests.pdb
+C:\Users\fanto\RiderProjects\lab3v7\BusinessLogicTests\bin\Debug\nunit.framework.dll
+C:\Users\fanto\RiderProjects\lab3v7\BusinessLogicTests\bin\Debug\nunit.framework.xml
+C:\Users\fanto\RiderProjects\lab3v7\BusinessLogicTests\obj\Debug\BusinessLogicTests.csprojResolveAssemblyReference.cache
+C:\Users\fanto\RiderProjects\lab3v7\BusinessLogicTests\obj\Debug\BusinessLogicTests.dll
+C:\Users\fanto\RiderProjects\lab3v7\BusinessLogicTests\obj\Debug\BusinessLogicTests.pdb
+C:\Users\fanto\RiderProjects\lab3v7\BusinessLogicTests\bin\Debug\lab3v7.exe
+C:\Users\fanto\RiderProjects\lab3v7\BusinessLogicTests\bin\Debug\lab3v7.pdb

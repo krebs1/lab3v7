@@ -1,0 +1,10 @@
+C:\Users\fanto\RiderProjects\lab3v7\obj\Debug\lab3v7.Properties.Resources.resources
+C:\Users\fanto\RiderProjects\lab3v7\obj\Debug\lab3v7.csproj.GenerateResource.cache
+C:\Users\fanto\RiderProjects\lab3v7\bin\Debug\lab3v7.exe.config
+C:\Users\fanto\RiderProjects\lab3v7\bin\Debug\lab3v7.exe
+C:\Users\fanto\RiderProjects\lab3v7\bin\Debug\lab3v7.pdb
+C:\Users\fanto\RiderProjects\lab3v7\obj\Debug\lab3v7.exe
+C:\Users\fanto\RiderProjects\lab3v7\obj\Debug\lab3v7.pdb
+C:\Users\fanto\RiderProjects\lab3v7\obj\Debug\lab3v7.csprojResolveAssemblyReference.cache
+C:\Users\fanto\RiderProjects\lab3v7\obj\Debug\lab3v7.MainForm.resources
+C:\Users\fanto\RiderProjects\lab3v7\obj\Debug\lab3v7.AddAndChange.resources
